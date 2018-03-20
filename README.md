@@ -1,5 +1,7 @@
 # KITTI Dataset Exploration
 
+Conda: kittivis
+
 ## Dependencies
 
 Apart from the common dependencies like `numpy` and `matplotlib` notebook requires [`pykitti`](https://github.com/utiasSTARS/pykitti). You can install `pykitti` via pip using:
